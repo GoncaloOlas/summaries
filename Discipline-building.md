@@ -16,7 +16,7 @@ Avoiding Distractions & Doing Deep Work | Dr. Cal Newport & Dr. Andrew Huberman 
 
 # Actions
 
-- [ ] 
+- [ ] asedasdasda
 
 # Insights
 
