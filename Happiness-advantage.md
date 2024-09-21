@@ -16,7 +16,7 @@ But recent discoveries in the field of positive psychology have shown that this 
 - [ ] Decorate your work environment happier
 - [ ] Spend 20 min outside in good weather
 - [ ] Remove negative inducing things from your environment
-- [ ] Exercise 3 x 45 min
+- [ ] Exercise 3 x 45 min a week
 - [ ] Look at your goals in life, how can these tasks be connected to this larger purpose?
 - [ ] Say "Three good things" that happened that day
 
