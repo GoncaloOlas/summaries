@@ -4,11 +4,11 @@
 
 - [x] How To Force Your Brain To Crave Doing Hard Things - https://www.youtube.com/watch?v=K8ZgwZf1E3E
 
-- [ ] How To Stop Wasting Your Life - https://www.youtube.com/watch?v=YucXxma_-ko
+- [x] How To Stop Wasting Your Life - https://www.youtube.com/watch?v=YucXxma_-ko
 
-- [ ] The Most Eye Opening 10 Minutes Of Your Life | David Goggins - https://www.youtube.com/watch?v=TLKxdTmk-zc
+- [x] The Most Eye Opening 10 Minutes Of Your Life | David Goggins - https://www.youtube.com/watch?v=TLKxdTmk-zc
 
-- [ ] Why Discipline Must Come From Within - Jocko Willink - https://www.youtube.com/watch?v=9OF06n1jNkM
+- [x] Why Discipline Must Come From Within - Jocko Willink - https://www.youtube.com/watch?v=9OF06n1jNkM
 
 - [ ] How To Build Self Discipline - Marcus Aurelius (Stoicism) - https://www.youtube.com/watch?v=njDLNt-1ugM
 
@@ -16,16 +16,25 @@
 
 # Actions
 
-- [ ] asedasdasda
+- [ ] Try a 5-hour meditation
+- [ ] Try 1000 push-ups
+- [ ] Read before bed
+- [ ] Take 2 days of in the middle of the week
+- [ ] No food for 5 days
+- [ ] Make a list of things you have to do
 
 # Insights
+
+## Unbreakable discipline
 
 The most important question to ask is: what pain do you want in your life? What are you willing to struggle for? 
 Anything worthwhile is going to require some degree of pain and struggle, so if you are oriented toward the pain and the struggle, you're probably going to be more aligned with what you are capable of accomplishing rather than if you orient towards the pleasures.
 
 Discipline  = importance of goal (why) + psicological pleasure of the pursuit of the goal - psicological  cost of the pursuit of the goal
 
-Lower the entry resistance to anythin g you really wanna do, it should be harder not to do it than to do it
+Lower the entry resistance to anything you really wanna do, it should be harder not to do it than to do it
+
+## Crave doing hard things
 
 Extrinsic motivation is money, status and praise. This motivation works but for the human brain, anticipation is more rewarding that attainment
 
@@ -90,5 +99,47 @@ To boost autonomy you need:
 Take a step back from your current situation and zoom-out, see the current situation as a stepaping stone in the overall journey you control and shape
 Give yourself FU options, skills which allow you to fallback on when you no longer see the current sistuation aligning with your journey
 
+## Stop wasting your life
 
+Monk-like routine:
+  - No snoozing
+  - No phone until 3pm
+  - Meditate
+  - Cold shower
+  - No social media doom-scrolling
+  - Eat between 1-6pm
+  - 1 hour of podcasts
+  - Workout 3x week
+  - 9pm wind-down
+
+Every parts serves its service, there are no bad parts
+
+## David Goggings
+
+Your brain is the only thing you have while going through depression, hard times, death, etc. REAL LIFE THINGS - You are alone with your brain
+
+You need to control your brain, tell it where to go, what you want to do
+
+Hard work is the basis of everything, GO BACK AGAIN, do it until you can DO it
+
+You emerge yourself into whatever it is, and give yourself no way out
+
+When you find your true passion, you will find peace but first you need to go through suffering
+
+## Discipline must come from within
+
+You don't get discipline from family or friends, you get it from within
+Becoming disciplined is very hard, and you'll fail many times
+
+You need to have ownership over the problem, so you can change yourself. As long as you blame other people, you won't succeed
+
+Being in a disciplined group, does not make you a disciplined person. What makes you a disciplined person is choosing to be disciplined
+
+Get after it! You need to do the things you know are going to improve your life. Don't do the things that make you weaker and worse
+
+Sometimes the connection (between doing hard things to get the rewards) does not exist, so you don't see that it is WORTH IT to do the hard things.
+
+I know it's worth it to get up and get after it
+
+## Stoicism self-discipline
 
