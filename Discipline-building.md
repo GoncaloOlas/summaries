@@ -10,9 +10,11 @@
 
 - [x] Why Discipline Must Come From Within - Jocko Willink - https://www.youtube.com/watch?v=9OF06n1jNkM
 
-- [ ] How To Build Self Discipline - Marcus Aurelius (Stoicism) - https://www.youtube.com/watch?v=njDLNt-1ugM
+- [x] How To Build Self Discipline - Marcus Aurelius (Stoicism) - https://www.youtube.com/watch?v=njDLNt-1ugM
 
-- [ ] Avoiding Distractions & Doing Deep Work | Dr. Cal Newport & Dr. Andrew Huberman - https://www.youtube.com/watch?v=f7V76Ky-_v8
+- [x] Avoiding Distractions & Doing Deep Work | Dr. Cal Newport & Dr. Andrew Huberman - https://www.youtube.com/watch?v=f7V76Ky-_v8
+    
+- [x] Summary of Deep Work by Dr. Cal Newport | Productivity game - https://www.youtube.com/watch?v=gTaJhjQHcf8
 
 # Actions
 
@@ -22,6 +24,10 @@
 - [ ] Take 2 days of in the middle of the week
 - [ ] No food for 5 days
 - [ ] Make a list of things you have to do
+- [ ] Scrutinize yourself and find your weak spots
+- [ ] Make a plan towards your desired goal -> create mini milestones with actions and time along the way to check your progress
+- [ ] Develop a deep work ritual, schedule chunks of deep work
+- [ ] Evening shutdown ritual: list of unfinished tasks and associate an action plan to it. At the end say "Shutdown complete" when you finish this list
 
 # Insights
 
@@ -111,6 +117,7 @@ Monk-like routine:
   - 1 hour of podcasts
   - Workout 3x week
   - 9pm wind-down
+  - Schedule your distraction periods
 
 Every parts serves its service, there are no bad parts
 
@@ -142,4 +149,61 @@ Sometimes the connection (between doing hard things to get the rewards) does not
 I know it's worth it to get up and get after it
 
 ## Stoicism self-discipline
+
+Self discipline starts with finding your purpose
+If you have a clear understanding of your goals and how your task fits within them, you are much more likely to complete it
+The biggest source of self-discipline is to have a reason to do the task
+Self discipline is about finding compelling reasons to do something, then commmiting yourself to see that task or activity through to the very end
+
+Count on yourself
+Make a plan towards your desired goal -> create mini milestones with actions and time along the way to check your progress
+Overwhelming digresses into procrastination which leads to stagnation
+
+Show up everyday
+The moment you wake up, a new day is a new opportunity
+
+Practice voluntary hardship
+For one day go without something you really need, ex. phone, smoking, social media
+Do that often enough and you'll understand hardship and scarcity
+
+Practice dichotomy of control
+You have power over your mind not outside of it
+Reinforce to yourself what is within your control and what is out of your control, and accept it
+
+Never play the victim
+Do your job without whining
+No excuses, assume responsibility
+Step up even when it is not your fault
+
+Practice delayed gratification
+Wait to get what you want
+Put off what you want now, so you get sometginfg better later on
+
+Ignore naysayers
+Don't handover your peace of mind to outsiders, to disrupt as they please
+
+Find wise people to emulate
+Identify rolemodels, who has successfully achieved this goal
+Ask how they got their desired outcome
+
+Honestly review your day
+Self-awareness, self-examination and self-determination
+Scrutinize yourself and find your weak spots
+Forgive yourself
+Think of what you did well and repeat it forever
+
+## Avoiding Distractions & Doing Deep Work
+Deep work are professional activities done in a state of distraction-free concentration that pushes your cognitive abilities to their limit
+Intense periods of focus in isolated fields of work causes myelin (develops around brain cells and allow for fasterd and more efficient synapses) to develop in relevant areas of the brain
+Deep work requires undivided attention
+
+Schedule your distraction periods, place boundaries on your distractions
+
+(same time, same day, everyday)
+You most likely can only hold deep work periods for 1 hour, but getting to 4 hours is the goal per chunk
+Have an evening shutdown ritual, make a list of unfinished tasks and associate an action plan to it. At the end say "Shutdown complete" when you finish this list
+
+Deep work is better with:
+lack of social media -> set things up so the internet is boring to you
+Phones are really good at inducing context switches, which are very expensive to productivity
 
